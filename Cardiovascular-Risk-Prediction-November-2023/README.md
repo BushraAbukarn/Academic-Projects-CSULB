@@ -8,7 +8,7 @@ ________________________________________________________________________________
 3. Numerous factors contribute to the risk of developing cardiovascular diseases. Analyzing the provided data through a regression analysis model allows us to identify which factors have the most significant impact.
 4. Furthermore, regression analysis stands out as the most frequently used technique in machine learning. According to the National Library of Medicine, machine learning significantly improves the accuracy of predicting cardiovascular risk.
 
-## 📊 Dataset Description
+## 📊 Dataset Descriptionc
 
 ## 🧪 Analysis & Methodology
 ## 🔍 Key Findings
