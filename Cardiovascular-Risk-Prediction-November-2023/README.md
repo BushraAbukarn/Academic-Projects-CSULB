@@ -37,8 +37,26 @@ The probit regression model consistently yielded the lowest AIC, BIC, and AICc v
 ## 🔍 Key Findings
 Φ^-1(π) = -2.871117 -.267145 Exercise + .3113835 Depression + .412838 Male + .258597 Smoking - .009876 Alcohol – 2.72266 (25-29 years old) + .115133 (30-34 years old) - .106887 (35-39 years old) + .242569 (40-44 years old)  + .406810 (45-49 years old) + .553118 (50-54 years old) + .773307 (55-59 years old) + 1.029560 (60-64 years old) + .990837 (65-69 years old) + 1.350416 (70-74 years old) + 1.323566 (75-79 years old) + 1.572687 (80+ years old) + .014392 BMI.
 
-Interpretation of Estimated Regression Coefficient:
-Males have a 0.412838 higher z-score of estimated probability of developing cardiovascular disease than females. Engaging in regular exercise decreases the z-score by 0.267145. Conversely, depression raises the z- score by 0.311835, and smoking increases the z-score by 0.258597. Besides, young people have a lower z-score than the elderly. Additionally, for each unit increase in BMI, the estimated z-score rises by 0.014392.
 
+Interpretation of Coefficients:
+#### Sex: Males have a 0.412838 higher z-score of estimated probability of developing cardiovascular disease than female.
+#### Exercise: Regular physical activity decreases the z-score by 0.267, indicating a protective effect.
+#### Depression: Presence of depression increases the z-score by 0.311, showing a significant association with higher risk.
+#### Smoking: Smokers have a 0.259 higher z-score than non-smokers, reflecting increased risk.
+#### BMI: Each unit increase in BMI raises the z-score by 0.014, suggesting a modest positive relationship with cardiovascular risk.
+#### Age: Older age categories are associated with substantially higher z-scores, particularly beyond age 55, indicating a strong age-related increase in risk.
+
+These findings are consistent with clinical expectations and public health literature, reinforcing the role of lifestyle and mental health factors in cardiovascular disease risk.
 
 ## 💡 Recommendations
+Using the final probit model, I estimated the probability of developing cardiovascular disease for a specific case:
+A 55-year-old male who exercises regularly, does not smoke, drinks rarely, and reports positive mental well-being (no signs of depression) was predicted to have a 5.5% probability of developing cardiovascular disease.
+
+This result underscores the protective effect of a healthy lifestyle. Based on the model findings, I recommend the following public health and individual-level actions:
+- Encourage regular physical activity, especially in middle-aged and older adults.
+- Promote smoking cessation and reduced alcohol consumption.
+- Support mental health, as depression was a significant predictor.
+- Increase awareness about how lifestyle changes can significantly reduce cardiovascular risk even in older populations.
+
+These findings align with current medical literature and reinforce the importance of behavioral interventions in cardiovascular disease prevention.
+
