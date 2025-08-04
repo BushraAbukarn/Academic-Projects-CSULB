@@ -14,6 +14,7 @@ The dataset used for this project was sourced from Kaggle and is titled Cardiova
 - Clinical measurements (e.g., BMI, blood pressure)
 - Behavioral factors (e.g., physical activity, smoking, alcohol use)
 - Mental health indicators (e.g., depression)
+
 The dataset was already cleaned and free of missing values. 
 For this project, I focused on a subset of variables believed to be most relevant to cardiovascular risk based on domain knowledge and initial correlation analysis. The predictors used were:
 Exercise, Depression, Sex, Age Category, BMI, Smoking History, and Alcohol Consumption. 
