@@ -60,3 +60,14 @@ This result underscores the protective effect of a healthy lifestyle. Based on t
 
 These findings align with current medical literature and reinforce the importance of behavioral interventions in cardiovascular disease prevention.
 
+## ↩ References
+[1] World Health Organization. “Cardiovascular Diseases.” World Health Organization, 2022,
+www.who.int/health-topics/cardiovascular-diseases#tab=tab_1.
+[2] Weng, Stephen F., et al. “Can Machine-Learning Improve Cardiovascular Risk Prediction
+Using Routine Clinical Data?” PLOS ONE, vol. 12, no. 4, 4 Apr. 2017, p. e0174944,
+journals.plos.org/plosone/article?id=10.1371/journal.pone.0174944,
+https://doi.org/10.1371/journal.pone.0174944. Accessed 17 Nov. 2019.
+[3] World Health Organization. “Cardiovascular Diseases.” World Health Organization, World
+Health Organization, 11 June 2021, www.who.int/news-room/factsheets/detail/cardiovascular-diseases-(cvds).
+[4] “Cardiovascular Diseases Risk Prediction Dataset.” Www.kaggle.com,
+www.kaggle.com/datasets/alphiree/cardiovascular-diseases-risk-prediction-dataset. 
