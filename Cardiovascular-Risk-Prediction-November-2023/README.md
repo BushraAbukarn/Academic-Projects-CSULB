@@ -20,7 +20,19 @@ For this project, I focused on a subset of variables believed to be most relevan
 Exercise, Depression, Sex, Age Category, BMI, Smoking History, and Alcohol Consumption. 
 This feature selection helped simplify the model, improve interpretability, and focus the analysis on lifestyle and behavioral risk factors.
 
-
 ## 🧪 Analysis & Methodology
+To model the likelihood of cardiovascular disease occurrence, I employed three binary classification models:
+- Logistic regression (logit link)
+- Probit regression
+- Complementary log-log (cloglog) regression
+  
+To validate the results, models were implemented in both RStudio and SAS.
+
+Model performance was evaluated using the following information criteria:
+- Akaike Information Criterion (AIC)
+- Bayesian Information Criterion (BIC)
+- Corrected Akaike Information Criterion (AICc)
+  
+The probit regression model consistently yielded the lowest AIC, BIC, and AICc values, indicating it provided the best fit among the three. As a result, the probit model was selected as the final model for interpretation and prediction.
 ## 🔍 Key Findings
 ## 💡 Recommendations
