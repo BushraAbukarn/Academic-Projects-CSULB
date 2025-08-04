@@ -1,6 +1,6 @@
 ## ✨Cardiovascular Risk Prediction 
 <img width="915" height="811" alt="image" src="https://github.com/user-attachments/assets/f1e109da-a402-4aed-a833-2d444ff278ca" />
-______________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 ## 🎯 Purpose
 ### The reason for choosing to talk about this topic: 
 1. Cardiovascular diseases encompass a range of disorders that affect the heart and blood vessels.
