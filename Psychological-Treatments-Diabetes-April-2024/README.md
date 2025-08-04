@@ -2,8 +2,11 @@
 ![image](https://github.com/user-attachments/assets/1582015f-9f60-48fa-a942-c476758648cc)
 
 ### Introduction
-According to the National Diabetes Statistics Report, 38.4 million people in the United States have diabetes, representing 11.6% of the population. This large number underscores the seriousness of diabetes as a major public health concern, as it can lead to other severe health issues over time. Additionally, diabetes affects not only the physical well-being of patients but also takes a toll on their mental health, with a significant portion experiencing symptoms of depression.
-This project is designed to examine the effectiveness of psychological treatments in alleviating depressive symptoms among individuals with diabetes. Specifically, it employs the linear mixed-effects regression model, an extension of linear regression that is particularly suited for analyzing longitudinal data. This model is ideal for evaluating the impact of treatments like Cognitive Behavioral Therapy (CBT) and Mindfulness-Based Cognitive Therapy (MBCT) across diverse patient populations over time. Furthermore, the model helps identify significant predictors of depression by assessing the statistical significance of their effects through hypothesis testing.
+According to the National Diabetes Statistics Report, 38.4 million people in the United States have diabetes, representing 11.6% of the population. This large number underscores the seriousness of diabetes as a major public health concern, as it can lead to other severe health issues over time. 
+Additionally, diabetes affects not only the physical well-being of patients but also takes a toll on their mental health, with a significant portion experiencing symptoms of depression.
+This project is designed to examine the effectiveness of psychological treatments in alleviating depressive symptoms among individuals with diabetes. 
+Specifically, it employs the linear mixed-effects regression model, an extension of linear regression that is particularly suited for analyzing longitudinal data. This model is ideal for evaluating the impact of treatments like Cognitive Behavioral Therapy (CBT) and Mindfulness-Based Cognitive Therapy (MBCT) across diverse patient populations over time. 
+Furthermore, the model helps identify significant predictors of depression by assessing the statistical significance of their effects through hypothesis testing.
 
 #### Diabetic
 A chronic disease that affects the transformation of food into energy, breaking down most of the food in the body into sugar (glucose) and releasing it into the bloodstream.
