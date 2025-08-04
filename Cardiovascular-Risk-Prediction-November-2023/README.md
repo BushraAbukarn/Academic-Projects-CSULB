@@ -35,4 +35,10 @@ Model performance was evaluated using the following information criteria:
   
 The probit regression model consistently yielded the lowest AIC, BIC, and AICc values, indicating it provided the best fit among the three. As a result, the probit model was selected as the final model for interpretation and prediction.
 ## 🔍 Key Findings
+Φ^-1(π) = -2.871117 -.267145 Exercise + .3113835 Depression + .412838 Male + .258597 Smoking - .009876 Alcohol – 2.72266 (25-29 years old) + .115133 (30-34 years old) - .106887 (35-39 years old) + .242569 (40-44 years old)  + .406810 (45-49 years old) + .553118 (50-54 years old) + .773307 (55-59 years old) + 1.029560 (60-64 years old) + .990837 (65-69 years old) + 1.350416 (70-74 years old) + 1.323566 (75-79 years old) + 1.572687 (80+ years old) + .014392 BMI.
+
+Interpretation of Estimated Regression Coefficient:
+Males have a 0.412838 higher z-score of estimated probability of developing cardiovascular disease than females. Engaging in regular exercise decreases the z-score by 0.267145. Conversely, depression raises the z- score by 0.311835, and smoking increases the z-score by 0.258597. Besides, young people have a lower z-score than the elderly. Additionally, for each unit increase in BMI, the estimated z-score rises by 0.014392.
+
+
 ## 💡 Recommendations
