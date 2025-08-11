@@ -1,4 +1,4 @@
-## ✨Cardiovascular Risk Prediction 
+## ✨Cardiovascular Risk Analysis and Prediction
 <img width="915" height="811" alt="image" src="https://github.com/user-attachments/assets/f1e109da-a402-4aed-a833-2d444ff278ca" />
 
 ## 🎯 Purpose
